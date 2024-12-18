@@ -1,0 +1,10 @@
+GET http://localhost:5047/manual-json
+
+###
+GET http://localhost:5047/xml
+
+###
+GET http://localhost:5047/auto
+
+###
+GET http://localhost:5047/custom-searializer
