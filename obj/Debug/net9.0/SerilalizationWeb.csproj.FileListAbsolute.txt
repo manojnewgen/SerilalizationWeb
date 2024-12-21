@@ -27,3 +27,11 @@ C:\DotnetProjects\SerilalizationWeb\obj\Debug\net9.0\refint\SerilalizationWeb.dl
 C:\DotnetProjects\SerilalizationWeb\obj\Debug\net9.0\SerilalizationWeb.pdb
 C:\DotnetProjects\SerilalizationWeb\obj\Debug\net9.0\SerilalizationWeb.genruntimeconfig.cache
 C:\DotnetProjects\SerilalizationWeb\obj\Debug\net9.0\ref\SerilalizationWeb.dll
+C:\DotnetProjects\SerilalizationWeb\bin\Debug\net9.0\Microsoft.AspNetCore.OpenApi.dll
+C:\DotnetProjects\SerilalizationWeb\bin\Debug\net9.0\Microsoft.OpenApi.dll
+C:\DotnetProjects\SerilalizationWeb\bin\Debug\net9.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\DotnetProjects\SerilalizationWeb\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\DotnetProjects\SerilalizationWeb\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\DotnetProjects\SerilalizationWeb\obj\Debug\net9.0\SerilalizationWeb.csproj.AssemblyReference.cache
+C:\DotnetProjects\SerilalizationWeb\obj\Debug\net9.0\SerilalizationWeb.MvcApplicationPartsAssemblyInfo.cs
+C:\DotnetProjects\SerilalizationWeb\obj\Debug\net9.0\Serilali.CA579643.Up2Date

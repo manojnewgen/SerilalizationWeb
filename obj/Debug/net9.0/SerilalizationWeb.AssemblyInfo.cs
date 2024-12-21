@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SerilalizationWeb")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+21a96f1a1d61fa80f29a364a17ccdd36d89aa72e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7f60bf31279cfa32d66cec8169d7ec4a755e7fdc")]
 [assembly: System.Reflection.AssemblyProductAttribute("SerilalizationWeb")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SerilalizationWeb")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
